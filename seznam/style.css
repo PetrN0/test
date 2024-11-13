@@ -1,0 +1,21 @@
+h1.a {
+    color: red;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-image: url(../../Pictures/dfyi22g-2411cf6d-883c-443a-9ebb-3b4a7ceadaba.png);
+    background-size: 1700px;
+}
+p {
+    color:wheat;
+}
+.li1{ color: aqua;
+
+}
+.li2{
+    color: blueviolet;
+}
+.ul1{
+    list-style: upper-roman;
+}
