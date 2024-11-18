@@ -3,8 +3,15 @@ h1.a {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+.h2{ color: darkgreen;
+    font-size: 200%;
+}
+.h3{color: pink;
+    font-size: 300%;
+
+}
 body{
-    background-image: url(../../Pictures/dfyi22g-2411cf6d-883c-443a-9ebb-3b4a7ceadaba.png);
+    background-image: url(telletubiessun.png);
     background-size: 1700px;
 }
 p {
@@ -16,6 +23,6 @@ p {
 .li2{
     color: blueviolet;
 }
-.ul1{
+.ul2{
     list-style: upper-roman;
 }
